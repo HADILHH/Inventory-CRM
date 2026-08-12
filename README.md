@@ -8,7 +8,6 @@ Open "Fair-Code" Source Inventory System made with PHP Laravel and React JS Fram
 ```
 
 ## License
-Inventory IQ is a Free Open Source [fair-code](http://faircode.io) distribution
 
 ## Features
 This project is currently on development and enhancements but some of the features includes are:
